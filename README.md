@@ -1,7 +1,11 @@
 # Oats
 
-Programmer
+Just your ordinary breakfast Programmer
 
-## Projects
+## Research
+
+- [XVM](https://github.com/JustOats/XVM): Anti-Tamper Research 
+
+## Libraries
 
 - [PEunpack](https://github.com/JustOats/PEunpack): Tiny C library for reading Windows PE files.
